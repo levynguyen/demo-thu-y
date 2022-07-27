@@ -8,3 +8,5 @@ env/Lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -tex
 *.dll filter=lfs diff=lfs merge=lfs -text
 templates/ filter=lfs diff=lfs merge=lfs -text
 env/ filter=lfs diff=lfs merge=lfs -text
+models/ filter=lfs diff=lfs merge=lfs -text
+utils/ filter=lfs diff=lfs merge=lfs -text
